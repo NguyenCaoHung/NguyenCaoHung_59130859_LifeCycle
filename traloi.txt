@@ -1,0 +1,4 @@
+4. Phương thức vòng đời: onPause, onStop, onDestroy, onCreate, onStart, onResume.
+5. Phương thức vòng đời: onPause, onStop, onRestart, onStart, onResume.
+6. Phương thức vòng đời onPause()
+vì onPause() là để duy trì tất cả thông tin về trạng thái và thành viên và vẫn được đính kèm với trình quản lý cửa sổ
